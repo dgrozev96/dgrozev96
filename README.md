@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dgrozev96
 - 👀 I’m interested in JavaScript..
-- 🌱 I’m currently learning ReactJS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently a Full stack web developer
 
 <!---
 dgrozev96/dgrozev96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
